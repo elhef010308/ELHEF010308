@@ -1,6 +1,6 @@
 ## Salut ! 👋
 
-# 👩‍💻 Présentation
+# 💻 Présentation
 
 Je m'appelle **Lucy** et je suis **développeuse web junior**.
 
