@@ -8,7 +8,7 @@ Actuellement en reconversion professionnelle après une **licence de Philosophie
 
 Le code m’a toujours attirée, mais il n’est pas forcément évident de saisir les bonnes opportunités au bon moment. Mon parcours en philosophie m’a permis d’acquérir une excellente maîtrise de la **langue française**, ainsi que des compétences **rédactionnelles**, **orales**, et en **compréhension de textes complexes**, que je mets aujourd’hui au service de projets techniques.
 
-🎯 Je m'intéresse tout particulièrement au **back-end**, même si mes projets de formation m'ont conduite à explorer un profil plutôt **fullstack** jusqu'à présent.
+Je m'intéresse tout particulièrement au **back-end**, même si mes projets de formation m'ont conduite à explorer un profil plutôt **fullstack** jusqu'à présent.
 
 ---
 
