@@ -50,7 +50,7 @@ _(Mon portfolio est en cours de finalisation, et sera bientôt enrichi d’une a
 
 ---
 
-## 🙋‍♀️ À propos de moi
+## 🙋 À propos de moi
 
 - Motivée    
 - Organisée  
@@ -60,7 +60,7 @@ _(Mon portfolio est en cours de finalisation, et sera bientôt enrichi d’une a
 
 ---
 
-## ✨ Citation inspirante
+## ✨ Citations inspirantes
 
 > *« La technique n’est pas seulement un moyen, elle est une manière d’être au monde. »*  
 > — **Heidegger**
