@@ -19,7 +19,6 @@ Persévérante, curieuse et motivée, je poursuis aujourd’hui mon apprentissag
 ---
 
 ## 🚀 Projets réalisés
---
 
 Durant ma formation chez OpenClassrooms, j’ai réalisé plusieurs projets concrets :
 
@@ -61,7 +60,6 @@ Durant ma formation chez OpenClassrooms, j’ai réalisé plusieurs projets conc
 ---
 
 ## 🛠️ Compétences techniques
---
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -79,7 +77,6 @@ Durant ma formation chez OpenClassrooms, j’ai réalisé plusieurs projets conc
 ---
 
 ## 🎯 Objectifs actuels
---
 
 - Approfondir mes compétences en JavaScript  
 - Reprendre le Node.js pour progresser sur le backend  
@@ -89,7 +86,6 @@ Durant ma formation chez OpenClassrooms, j’ai réalisé plusieurs projets conc
 ---
 
 ## ✨ Citations motivantes
---
 
 > “First, solve the problem. Then, write the code.” — John Johnson  
 
