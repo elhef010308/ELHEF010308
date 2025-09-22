@@ -103,7 +103,6 @@ Durant ma formation chez OpenClassrooms, j’ai réalisé plusieurs projets conc
 ---
 
 ## 📬 Contact
----
 
 - 🎒 [LinkedIn]([URL_DE_TON_LINKEDIN](https://www.linkedin.com/in/lucy-fougerard-6a126632a/))  
 - 🌐 [Portfolio]([URL_DE_TON_PORTFOLIO](https://elhef010308.github.io/PORTFOLIO/))  
